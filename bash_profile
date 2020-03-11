@@ -1,7 +1,4 @@
-eval "$(rbenv init -)"
-
-alias cry='cd ~/projects/crystal'
-alias play='cd ~/projects/player'
+# eval "$(rbenv init -)"
 
 export NVM_DIR="$HOME/.nvm"
   [ -s "/usr/local/opt/nvm/nvm.sh" ] && . "/usr/local/opt/nvm/nvm.sh"  # This loads nvm
