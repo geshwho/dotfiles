@@ -1,0 +1,7 @@
+if [ -d "$HOME"/.oh-my-zsh ]; then
+  echo oh-my-zsh found!
+else
+  git clone git@github.com:mtamhankar1/ohmyzsh.git "$HOME"/.oh-my-zsh
+fi
+
+vim -E +PluginInstall +qa
