@@ -4,7 +4,7 @@
 source ~/.bash_profile
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/tamhankarm/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 export FZF_DEFAULT_COMMAND='fd --type f'
 
 # Set name of the theme to load --- if set to "random", it will
