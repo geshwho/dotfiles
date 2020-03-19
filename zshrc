@@ -1,8 +1,6 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=/Users/tamhankarm/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/tamhankarm/.local/bin
 
-source ~/.bash_profile
-
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 export FZF_DEFAULT_COMMAND='fd --type f'
