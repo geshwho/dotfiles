@@ -64,7 +64,11 @@ ZSH_THEME=cobalt2
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
+  colorize
+  copybuffer
   git
+  yarn
+  zsh_reload
 )
 
 source $ZSH/oh-my-zsh.sh
